@@ -87,8 +87,8 @@ Columns:
 - 7 [M3]: Measurements on the assessment day after the control period
 
 ## WT10m_M0_M1_M2_M3_wide.csv
-*(cave: this test was not correctly performed due to insufficient instructions, i.e., the test included in total only 10 m instead of 14 m walking. Also, it was not clear if the noted unit is meters or metres/second. Furthermore, the results of this test would stand in contradiction to all other test results. Thus, this test should be excluded from further analysis.)*
-Ten meter Walk Test original data [seconds] from four assessment days, 3 tries<br><br>
+*(cave: this test was not correctly performed due to insufficient instructions, i.e., the test included in total only 10 m instead of 14 m walking. Also, it was not clear if the noted unit is meters or metres/second, i.e., values range between 2.7 and 12.8, which is not realistic. Thus, this test should be excluded from further analysis.)*
+Ten meter Walk Test original data [???] from four assessment days, 3 tries<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
