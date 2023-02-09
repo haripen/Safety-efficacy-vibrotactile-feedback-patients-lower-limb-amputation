@@ -1,7 +1,7 @@
 # Data information
 
 ## AllEffects_long.csv
-Period-wise effects defined as post - pre, i.e., M1 - M0 and M3 - M2, with one observation per row.
+Period-wise effects defined as post - pre, i.e., M1 - M0 and M3 - M2, with one observation per row.<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
@@ -15,7 +15,7 @@ Columns:
 - 9 [scaled_value]: The result of scaling, i.e., value/scaler
 
 ## FSST_M0_M1_M2_M3_wide.csv
-Four Square Step Test original data from four assessment days, 3 tries<br>
+Four Square Step Test original data from four assessment days, 3 tries<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
@@ -27,7 +27,7 @@ Columns:
 - 7 [M3]: Measurements on the assessment day after the control period
 
 ## HealthVAS_M0_M1_M2_M3_wide.csv
-General health-related Visual Analog Scale original data from four assessment days<br>
+General health-related Visual Analog Scale original data from four assessment days<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
@@ -39,7 +39,7 @@ Columns:
 - 7 [M3]: Measurements on the assessment day after the control period
 
 ## StanceTimeAL_M0_M1_M2_M3_wide.csv
-Stance Time of the Affected Leg (prosthesis side) original data from four assessment days from the GAITRite system, 3 tries<br>
+Stance Time of the Affected Leg (prosthesis side) original data from four assessment days from the GAITRite system, 3 tries<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
@@ -51,7 +51,7 @@ Columns:
 - 7 [M3]: Measurements on the assessment day after the control period
 
 ## StepLengthUL_M0_M1_M2_M3_wide.csv
-Step Length of the Unaffected Leg original data from four assessment days from the GAITRite system, 3 tries<br>
+Step Length of the Unaffected Leg original data from four assessment days from the GAITRite system, 3 tries<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
@@ -63,7 +63,7 @@ Columns:
 - 7 [M3]: Measurements on the assessment day after the control period
 
 ## TUG_M0_M1_M2_M3_wide.csv
-Timed Up and Go test original data from four assessment days, 3 tries<br>
+Timed Up and Go test original data from four assessment days, 3 tries<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
@@ -75,7 +75,7 @@ Columns:
 - 7 [M3]: Measurements on the assessment day after the control period
 
 ## Velocity_M0_M1_M2_M3_wide.csv
-Gait speed original data from four assessment days from the GAITRite system, 3 tries<br>
+Gait speed original data from four assessment days from the GAITRite system, 3 tries<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
@@ -88,7 +88,7 @@ Columns:
 
 ## WT10m_M0_M1_M2_M3_wide.csv
 *(cave: this test was not correctly performed,i.e., in total only 10 m instead of 14 m! The results of this test stand in contradiction to all other results. Thus, this test should be excluded from further analysis.)*
-Ten meter Walk Test original data from four assessment days, 3 tries<br>
+Ten meter Walk Test original data from four assessment days, 3 tries<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
@@ -100,7 +100,7 @@ Columns:
 - 7 [M3]: Measurements on the assessment day after the control period
 
 ## WT2min_M0_M1_M2_M3_wide.csv
-Two minutes Walk Test original data from four assessment days, 3 tries<br>
+Two minutes Walk Test original data from four assessment days, 3 tries<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
