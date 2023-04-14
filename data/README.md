@@ -38,6 +38,20 @@ Columns:
 - 6 [M2]: Measurements on the assessment day before the control period
 - 7 [M3]: Measurements on the assessment day after the control period
 
+## StanceT_diff_M0_M1_M2_M3_wide.csv
+Stance Time Difference Affected Leg (prosthesis side) minus Unaffected Leg original data [seconds] from four assessment days from the GAITRite system, 3 tries.<br>
+*Cave: data sampled at a too low frequency of 80 Hz, but >125 Hz would be required. Thus, this data correponds to white noise.*
+<br><br>
+Columns:
+- 0 [NA]: Index
+- 1 [ID]: Identifier for each participant
+- 2 [sequence]: Two levels encoding vibraion first then control (VC) and control first then vibration (CV)
+- 3 [tries]: Three levels V1, V2, and V3 for three tries at each assessment day
+- 4 [M0]: Measurements on the assessment day before receiving the Suralis vibration feedback system
+- 5 [M1]: Measurements on the assessment day after receiving the Suralis vibration feedback system
+- 6 [M2]: Measurements on the assessment day before the control period
+- 7 [M3]: Measurements on the assessment day after the control period
+
 ## StanceTimeAL_M0_M1_M2_M3_wide.csv
 Stance Time of the Affected Leg (prosthesis side) original data [seconds] from four assessment days from the GAITRite system, 3 tries<br><br>
 Columns:
