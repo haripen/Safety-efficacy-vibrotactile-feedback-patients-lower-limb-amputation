@@ -64,6 +64,18 @@ Columns:
 - 6 [M2]: Measurements on the assessment day before the control period
 - 7 [M3]: Measurements on the assessment day after the control period
 
+## StepLengthDiff_M0_M1_M2_M3_wide.csv
+Step Length Difference of the of unaffected - affected (prosthesis side) leg step length original data [cm] from four assessment days from the GAITRite system, 3 tries<br><br>
+Columns:
+- 0 [NA]: Index
+- 1 [ID]: Identifier for each participant
+- 2 [sequence]: Two levels encoding vibraion first then control (VC) and control first then vibration (CV)
+- 3 [tries]: Three levels V1, V2, and V3 for three tries at each assessment day
+- 4 [M0]: Measurements on the assessment day before receiving the Suralis vibration feedback system
+- 5 [M1]: Measurements on the assessment day after receiving the Suralis vibration feedback system
+- 6 [M2]: Measurements on the assessment day before the control period
+- 7 [M3]: Measurements on the assessment day after the control period
+
 ## StepLengthUL_M0_M1_M2_M3_wide.csv
 Step Length of the Unaffected Leg original data [cm] from four assessment days from the GAITRite system, 3 tries<br><br>
 Columns:
