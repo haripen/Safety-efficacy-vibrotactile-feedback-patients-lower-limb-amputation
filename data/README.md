@@ -65,7 +65,7 @@ Columns:
 - 7 [M3]: Measurements on the assessment day after the control period
 
 ## StepLengthDiff_M0_M1_M2_M3_wide.csv
-Step Length Difference of the of unaffected - affected (prosthesis side) leg step length original data [cm] from four assessment days from the GAITRite system, 3 tries<br><br>
+Step Length Difference of the of unaffected - affected (prosthesis side) leg step length original data [cm] from four assessment days from the GAITRite system, 3 tries. (*cave: ICC 3,1 was only at 0.36 with a standard error of measurement of 5.1 cm*)<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
