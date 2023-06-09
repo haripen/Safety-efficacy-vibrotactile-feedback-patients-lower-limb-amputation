@@ -8,4 +8,4 @@ For details, code, and detailed results please see
 - Bayesian_GLMM_analysis.ipynb viewable online at <br>
 https://nbviewer.org/urls/gitfront.io/r/haripen/6ZQ4pngRwEWa/Safety-Efficacy-vibrotactile-feedback-patients-lower-limb-amputation/raw/Bayesian_GLMM_analysis.ipynb
 
-Trial registration: (will be updated)
+Trial registration: <a href="https://clinicaltrials.gov/ct2/show/record/NCT05895253"> NCT05895253 </a>
