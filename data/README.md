@@ -101,7 +101,7 @@ Columns:
 - 7 [M3]: Measurements on the assessment day after the control period
 
 ## Velocity_M0_M1_M2_M3_wide.csv
-Gait speed original data  [cm/second] from four assessment days from the GAITRite system, 3 tries<br><br>
+Gait speed original data onverted to [km/h] from four assessment days from the GAITRite system, 3 tries<br><br>
 Columns:
 - 0 [NA]: Index
 - 1 [ID]: Identifier for each participant
