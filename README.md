@@ -5,19 +5,16 @@ For details, code, and detailed results please see
 
 - PenassoH 2023 Statistical Supplementary Material following the Bayesian Analysis Reporting Guidelines.pdf
 
-- Bayesian_GLMM_analysis.ipynb viewable online at <br>
-[https://nbviewer.org/urls/gitfront.io/r/haripen/6ZQ4pngRwEWa/Safety-Efficacy-vibrotactile-feedback-patients-lower-limb-amputation/raw/Bayesian_GLMM_analysis.ipynb](https://nbviewer.org/urls/gitfront.io/r/haripen/srRZT5K457cA/Safety-Efficacy-vibrotactile-feedback-patients-lower-limb-amputation/raw/Bayesian_GLMM_analysis.ipynb)
-
 - Required functions available at: <br>
-[https://gitfront.io/r/haripen/FwV7y2yw5oH7/bambi-helper-funs/](https://gitfront.io/r/haripen/FwV7y2yw5oH7/bambi-helper-funs/)
+[https://github.com/haripen/bambi_helper_funs](https://github.com/haripen/bambi_helper_funs)
 
 To re-run the notebook now that the links have expired during the review process, update ``myPackagePath`` and ``pn`` in the notebook to the links above:
 ```
-myPackagePath = 'https://gitfront.io/r/haripen/FwV7y2yw5oH7/bambi-helper-funs/raw/'
+myPackagePath = 'https://github.com/haripen/bambi_helper_funs/raw/'
 ```
 and
 ```
-pn = 'https://gitfront.io/r/haripen/srRZT5K457cA/Safety-Efficacy-vibrotactile-feedback-patients-lower-limb-amputation/raw/data/'
+pn = 'https://github.com/haripen/Safety-efficacy-vibrotactile-feedback-patients-lower-limb-amputation/raw/data/'
 ```
 
 
